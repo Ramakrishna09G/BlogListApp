@@ -1,0 +1,26 @@
+/* Write your CSS code here */
+.blog-item-card {
+  list-style-type: none;
+  border-bottom-color: #616e7c;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+}
+.title-and-publishedDate {
+  display: flex;
+  justify-content: space-between;
+}
+.title {
+  color: #12022f;
+  font-size: 18px;
+  font-family: 'Roboto';
+}
+.publishedDate {
+  color: #9aa5b1;
+  font-size: 14px;
+  font-family: 'Roboto';
+}
+.description {
+  color: #9aa5b1;
+  font-size: 14px;
+  font-family: 'Roboto';
+}
